@@ -7,11 +7,12 @@
 >
 
 ## Here are using the languages as below.
+- [x] PHP
 - [x] HTML
 - [x] CSS
-- [x] JAVASCRIPT
+- [x] JQuery / Ajax
 
-Related to triggering and pausing an element’s transition. The solution is actually quite simple using JavaScript. To trigger an element’s transition, toggle a class name on that element that triggers it. The following is an example of that approach.
+In this tutorial shows how to make a POST request with JSON content body, and return results from server. 
 
 ```JavaScript
 var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
