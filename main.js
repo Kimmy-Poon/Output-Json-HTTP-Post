@@ -1,10 +1,8 @@
 function post_data(){
 	var name = $('#name').val();
-	var email = $('#email').val();
  
 	var data = new Array();
 		data.push({name: 'name', value: name});
-		data.push({name: 'email', value: email});
  
 	$.ajax({
 		url: 'data.php',
