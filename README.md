@@ -3,8 +3,6 @@
 >
 > ![Screenshot](Output-Json-HTTP-Post.gif)
 >
-> This navigation bar was built using [Bootstrap](https://getbootstrap.com/).
->
 
 ## Here are using the languages as below.
 - [x] PHP
